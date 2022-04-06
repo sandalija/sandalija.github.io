@@ -71,7 +71,7 @@ export const removeFile = async (uri: string): Promise<void> => {
 ```
 
 ## Vamos a unirlo todo
-Finalmente, con todo lo que hemos visto,  podemos crear un componente que gestione el ciclo de vida de un fichero
+Finalmente, con todo lo que hemos visto,  podemos crear un componente que gestione el ciclo de vida de un fichero.
 
 
 ```typescript
