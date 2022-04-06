@@ -70,11 +70,8 @@ export const removeFile = async (uri: string): Promise<void> => {
 };
 ```
 
-## Resultado
-![Crear fichero](/assets/2022/04/05/create-image.jpeg)
-
-![Edotar fichero](/assets/2022/04/05/edit-image.jpeg)
-
+## Vamos a unirlo todo
+Finalmente, con todo lo que hemos visto,  podemos crear un componente que gestione el ciclo de vida de un fichero
 
 
 ```typescript
@@ -184,3 +181,10 @@ const styles = StyleSheet.create({
 });
 
 ```
+
+
+## Resultado
+
+![Crear fichero](/assets/2022/04/05/create-image.jpeg)
+
+![Edotar fichero](/assets/2022/04/05/edit-image.jpeg)
